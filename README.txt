@@ -1,4 +1,4 @@
-Stelios Papamichail csd4020@csd.uoc.gr
+## Unix shell built by Stelios Papamichail as part of an assignment for the course of CS-345 Operating Systems at the University Of Crete.
 
 -=-=- Assignment Report -=-=-
 
